@@ -9,4 +9,4 @@
 vixxhesh/vixxhesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![Snake animation](https://github.com/vixxhesh/github-readme/blob/output/github-contribution-snake.svg)
