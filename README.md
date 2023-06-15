@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
 <h3 align="center">It's all 0's and 1's. We are just living by them binaries.</h3>
 
-<p align="left" display="flex"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixxhesh" alt="vixxhesh" /></a> </p>
+<p align="left" display: flex;
+  justify-content: center;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixxhesh" alt="vixxhesh" /></a> </p>
 
 - 🔭 I’m currently working on **Tax Consultancy Personnel**
 
