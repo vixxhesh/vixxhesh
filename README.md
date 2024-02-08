@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Tax Consultancy Personnel**
+- 🔭 I’m currently working on **Smart-Containers**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web penetration testing**
 
 - 👨‍💻 All of my projects are available at [https://vixxhesh.github.io/portfolio/](https://vixxhesh.github.io/portfolio/)
 
-- 💬 Ask me about **Javascript and philosophy**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **visheshbverma@gmail.com**
 
