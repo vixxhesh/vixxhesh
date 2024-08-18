@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
-<h3 align="center">It's all 0's and 1's. We are just living by them binaries.</h3>
+<h3 align="center">It's all 0's and 1's. We are just living by those binaries.</h3>
 
 
 
-- 🔭 I’m currently working on **Smart-Containers**
+- 🔭 I’m currently working on **SpiderWeb**
 
-- 🌱 I’m currently learning **Web penetration testing**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://vixxhesh.github.io/portfolio/](https://vixxhesh.github.io/portfolio/)
 
